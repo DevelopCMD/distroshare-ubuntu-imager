@@ -32,3 +32,5 @@ bootable USB drive.
 
 Ubuntu Startup Disk creator won't be able to turn the iso into a bootable 
 usb drive since Distroshare Ubuntu Imager uses grub2 as the bootloader.
+
+I didn't write this.
